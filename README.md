@@ -443,6 +443,8 @@ gr.Interface(
 ```
 [Running on public URL: ](https://539ea688e3ccf5a3b8.gradio.live)
 
+<img width="251" height="350" alt="9d655419-03a8-459b-9f5c-18d803e23353" src="[https://github.com/user-attachments/assets/49d53787-39f4-4bf1-bd8f-d72d4cb2bd8c](https://github.com/felpudososamente/Gatos/blob/main/GatoFinal.jpeg)" />
+
 ## Conclusiones
 El modelo demuestra ser eficaz a la hora de reconocer gatos en imágenes en primer plano. Sin embargo, como la data de entramiento fueron principalmente perros y gatos, al momento de introducirle algo que no corresponde a ninguno de ambos, puede generar falsos positivos o falsos negativos. Para ello, en futuras versiones se propone introducir otro conjunto de imágenes variadas, y así podría también reconcer perros. 
 
