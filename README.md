@@ -81,7 +81,6 @@ print("Seaborn:", sns.__version__)
 print("Matplotlib:", matplotlib.__version__)
 print("Pandas:", pd.__version__)
 print("Pillow:", Image.__version__)
-## Análisis Exploratorio
 
 ```
 
